@@ -40,7 +40,7 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone <your-repo-url>
 cd <repo-folder>
-
+```
 ---
 ## Acknowledgements
 Course: CS 251 – Data Analysis and Visualization
