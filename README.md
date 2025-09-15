@@ -8,10 +8,6 @@ This project implements a **Radial Basis Function (RBF) Neural Network** for cla
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Dependencies](#dependencies)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
